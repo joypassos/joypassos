@@ -14,7 +14,7 @@
 ## Possuo Certificação AWS:
 - Praticante de nuvem.
 
-  ## Possuo Certificação OCI:
+## Possuo Certificação OCI:
 - Oracle Autonomous Database Cloud 2023 Certified Professional
 - Oracle Cloud Infrastructure 2023 Architect Associate (1Z0-1072-23)
 - Oracle Cloud Infrastructure 2023 Foundations Associate ( 1Z0-1085-23)
